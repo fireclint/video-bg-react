@@ -1,5 +1,5 @@
+![video-bg-react-thumb](https://user-images.githubusercontent.com/65420004/158282185-e51763e0-db02-4777-a4d5-7d205a33fd10.jpg)
 
-![video-bg-thumb](https://user-images.githubusercontent.com/65420004/158282047-aa1290e8-054d-42ce-88c5-d38c2cc539bd.png)
 
 # Getting Started with Create React App
 
